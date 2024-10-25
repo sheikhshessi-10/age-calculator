@@ -13,7 +13,7 @@ ________ IsLeapYear(_________)
 ●	function
 ________ IsValidYearInDate(_________)
 
-●	function (Think properly what must be passed as the parameters and its return type)
+●	function
 ________ IsValidMonthInDate(_________)
 
 ●	function 
